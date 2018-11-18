@@ -1,2 +1,4 @@
 # Hello-world
-A repository that is new
+This is a repository that is new
+
+My first time on Github. Currently following a tutorial. 
